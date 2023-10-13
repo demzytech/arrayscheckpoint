@@ -1,0 +1,16 @@
+PROBLEM 1:
+
+Step 1: Create a variable to hold two sets
+step 2: create a variable to hold the result
+step 3: go through the sets
+step 4: Identify unique items in each of the sets
+step 5: Add all the unique items and store the unique variable
+step 6: print result
+
+PROBLEM 2:
+
+Step 1: create a function called .products
+step 2: pass parameter v1 and v2 into the product
+step 3: add v1 and v2 character
+step 4: return the sum of v1 and v2
+step 5: print result
